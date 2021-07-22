@@ -7,4 +7,6 @@ class LinkedListTest extends Specification {
         expect:
         new LinkedList()
     }
+
+    //put your other tests
 }
