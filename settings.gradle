@@ -1,0 +1,3 @@
+rootProject.name = 'Java-Snippets'
+
+include 'Linked-List'
